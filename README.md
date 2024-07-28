@@ -22,7 +22,7 @@ Sou Engenheiro de Produção com vasta experiência em planejamento logístico e
 
 ## 🌟 Conecte-se Comigo
 
-- **LinkedIn**: [Alzir Fernando]([link para seu perfil do LinkedIn](https://www.linkedin.com/in/alzir-moreira-34a045191?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- **LinkedIn**: (https://www.linkedin.com/in/alzir-moreira-34a045191?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade para entrar em contato!
 
