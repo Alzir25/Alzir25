@@ -21,6 +21,7 @@ Sou Engenheiro de Produção com vasta experiência em planejamento logístico e
 - **Data Analytics**: Atualmente em formação, com foco em banco de dados, ETL, Python e PowerBI.
   
 Se precisar de mais alguma coisa ou de ajustes específicos, é só avisar!
+
 <p align="left">Techs</p>
 
 ###
@@ -44,8 +45,8 @@ Se precisar de mais alguma coisa ou de ajustes específicos, é só avisar!
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alzir25&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Alzir25&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alzir25&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
