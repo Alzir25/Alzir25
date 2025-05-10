@@ -4,11 +4,12 @@ Bem-vindo ao meu perfil do GitHub!
 
 ## Sobre Mim
 
-Sou Engenheiro de Produção com vasta experiência em planejamento logístico e gestão de processos de negócios (BPM). Atualmente, estou ampliando meus horizontes na área de Data Analytics, onde estou desenvolvendo habilidades em bancos de dados, ETL (Extract, Transform, Load), Python e PowerBI.
+Sou Analista de Dados com formação em Engenharia de Produção e trajetória marcada pela evolução constante dentro do setor de inteligência e planejamento. Iniciei minha carreira como Cronoanalista no Grupo Alyne Cosméticos, onde desenvolvi uma base sólida em análise de processos e eficiência operacional. Em seguida, atuei no Grupo Meia Sola, passando por cargos de Assistente de Produtos e Analista de Planejamento, até chegar à posição atual de Analista de Dados.
+
+Ao longo dessa jornada, me especializei em transformar dados em valor estratégico, utilizando ferramentas como PostgreSQL, Power BI e Python. Tenho experiência com análises exploratórias, modelagem de dados e desenvolvimento de dashboards interativos para apoiar decisões comerciais e operacionais. Minha atuação é orientada a resultados, sempre buscando identificar oportunidades, otimizar recursos e gerar insights acionáveis que impactem positivamente o negócio.
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Planejamento Logístico**: Expertise em otimização de processos e planejamento eficiente.
 - **Business Process Management (BPM)**: Experiência na modelagem e análise de processos de negócios.
 - **Banco de Dados**: Conhecimento em design e manipulação de bancos de dados.
 - **ETL**: Competência em processos de extração, transformação e carga de dados.
